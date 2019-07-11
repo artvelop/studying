@@ -5,3 +5,7 @@
 md파일로 정리하는게 편해서 만들었다.
 
 심심할 때 쭉 정독하면 좋다
+
+한번 읽어보거라
+
+https://backlog.com/git-tutorial/kr/stepup/stepup2_3.html

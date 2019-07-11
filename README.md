@@ -10,4 +10,4 @@ md파일로 정리하는게 편해서 만들었다.
 
 https://backlog.com/git-tutorial/kr/stepup/stepup2_3.html
 
-위에 페이지로 가면 깃에 관련한 정보 잘나옴
+위에 페이지로 가면 깃에 관련한 정보 잘나옴 나중에 꼭 봐보길!!
